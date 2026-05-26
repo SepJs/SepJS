@@ -1,0 +1,108 @@
+<svg width="100%" viewBox="0 0 690 520" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Skill mastery chart for Unknown XRG</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Horizontal bar chart showing skill mastery by category: Art and Design 99.75%, Music 100%, Web and Data 86%, Programming 37.5%, Security and Game Dev 47%, Overall 74%.</desc>
+
+  <defs>
+    <linearGradient id="g-art" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9945ff"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="g-music" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#bf5fff"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+    <linearGradient id="g-web" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#86efac"/>
+    </linearGradient>
+    <linearGradient id="g-code" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#93c5fd"/>
+    </linearGradient>
+    <linearGradient id="g-sec" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fdba74"/>
+    </linearGradient>
+    <linearGradient id="g-overall" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6a0dad"/>
+      <stop offset="100%" stop-color="#9945ff"/>
+    </linearGradient>
+    <clipPath id="clip-art"><rect x="160" y="46" width="430" height="28" rx="6"/></clipPath>
+    <clipPath id="clip-music"><rect x="160" y="110" width="430" height="28" rx="6"/></clipPath>
+    <clipPath id="clip-web"><rect x="160" y="174" width="430" height="28" rx="6"/></clipPath>
+    <clipPath id="clip-code"><rect x="160" y="238" width="430" height="28" rx="6"/></clipPath>
+    <clipPath id="clip-sec"><rect x="160" y="302" width="430" height="28" rx="6"/></clipPath>
+    <clipPath id="clip-ov"><rect x="160" y="390" width="430" height="34" rx="8"/></clipPath>
+  </defs>
+
+  <!-- bg rows -->
+  <rect x="20" y="36" width="640" height="48" rx="8" fill="#ffffff" fill-opacity="0.03" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="20" y="100" width="640" height="48" rx="8" fill="#ffffff" fill-opacity="0.03" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="20" y="164" width="640" height="48" rx="8" fill="#ffffff" fill-opacity="0.03" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="20" y="228" width="640" height="48" rx="8" fill="#ffffff" fill-opacity="0.03" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="20" y="292" width="640" height="48" rx="8" fill="#ffffff" fill-opacity="0.03" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- divider -->
+  <line x1="20" y1="368" x2="660" y2="368" stroke="#9945ff" stroke-width="0.5" stroke-dasharray="4 4" stroke-opacity="0.4" style="fill:rgb(0, 0, 0);stroke:rgb(153, 69, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-dasharray:4px, 4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- overall bg -->
+  <rect x="20" y="380" width="640" height="54" rx="10" fill="#1a0030" fill-opacity="0.6" style="fill:rgb(26, 0, 48);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="20" y="380" width="640" height="54" rx="10" fill="none" stroke="#9945ff" stroke-width="0.5" stroke-opacity="0.5" style="fill:none;stroke:rgb(153, 69, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- track backgrounds -->
+  <rect x="160" y="46" width="430" height="28" rx="6" fill="#ffffff" fill-opacity="0.06" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="160" y="110" width="430" height="28" rx="6" fill="#ffffff" fill-opacity="0.06" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="160" y="174" width="430" height="28" rx="6" fill="#ffffff" fill-opacity="0.06" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="160" y="238" width="430" height="28" rx="6" fill="#ffffff" fill-opacity="0.06" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="160" y="302" width="430" height="28" rx="6" fill="#ffffff" fill-opacity="0.06" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="160" y="390" width="430" height="34" rx="8" fill="#ffffff" fill-opacity="0.06" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- filled bars -->
+  <!-- Art 99.75% → 428.9px -->
+  <rect x="160" y="46" width="429" height="28" rx="6" fill="url(#g-art)" clip-path="url(#clip-art)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Music 100% → 430px -->
+  <rect x="160" y="110" width="430" height="28" rx="6" fill="url(#g-music)" clip-path="url(#clip-music)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Web 86% → 370px -->
+  <rect x="160" y="174" width="370" height="28" rx="6" fill="url(#g-web)" clip-path="url(#clip-web)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Programming 37.5% → 161px -->
+  <rect x="160" y="238" width="161" height="28" rx="6" fill="url(#g-code)" clip-path="url(#clip-code)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Security 47% → 202px -->
+  <rect x="160" y="302" width="202" height="28" rx="6" fill="url(#g-sec)" clip-path="url(#clip-sec)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Overall 74% → 318px -->
+  <rect x="160" y="390" width="318" height="34" rx="8" fill="url(#g-overall)" clip-path="url(#clip-ov)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- labels left -->
+  <text x="150" y="65" text-anchor="end" font-size="12" font-family="monospace" fill="#c084fc" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">🎨 Art &amp; Design</text>
+  <text x="150" y="129" text-anchor="end" font-size="12" font-family="monospace" fill="#e879f9" style="fill:rgb(232, 121, 249);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">🎵 Music</text>
+  <text x="150" y="193" text-anchor="end" font-size="12" font-family="monospace" fill="#86efac" style="fill:rgb(134, 239, 172);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">🌐 Web &amp; Data</text>
+  <text x="150" y="257" text-anchor="end" font-size="12" font-family="monospace" fill="#93c5fd" style="fill:rgb(147, 197, 253);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">💻 Programming</text>
+  <text x="150" y="321" text-anchor="end" font-size="12" font-family="monospace" fill="#fdba74" style="fill:rgb(253, 186, 116);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">🔐 Sec &amp; GameDev</text>
+  <text x="150" y="412" text-anchor="end" font-size="13" font-family="monospace" font-weight="bold" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:13px;font-weight:700;text-anchor:end;dominant-baseline:auto">⚡ Overall</text>
+
+  <!-- percent labels right -->
+  <text x="600" y="65" text-anchor="start" font-size="12" font-family="monospace" fill="#c084fc" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">99.75%</text>
+  <text x="600" y="129" text-anchor="start" font-size="12" font-family="monospace" fill="#e879f9" style="fill:rgb(232, 121, 249);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">100%</text>
+  <text x="600" y="193" text-anchor="start" font-size="12" font-family="monospace" fill="#86efac" style="fill:rgb(134, 239, 172);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">86%</text>
+  <text x="600" y="257" text-anchor="start" font-size="12" font-family="monospace" fill="#93c5fd" style="fill:rgb(147, 197, 253);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">37.5%</text>
+  <text x="600" y="321" text-anchor="start" font-size="12" font-family="monospace" fill="#fdba74" style="fill:rgb(253, 186, 116);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">47%</text>
+  <text x="600" y="412" text-anchor="start" font-size="13" font-family="monospace" font-weight="bold" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:13px;font-weight:700;text-anchor:start;dominant-baseline:auto">74%</text>
+
+  <!-- skills subtitle -->
+  <text x="160" y="354" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">ZBrush · Aseprite · Pixel Art · Blender</text>
+  <text x="152.5" y="354" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">  ·  MuseScore  ·  HTML · CSS · SQL · NoSQL · JSON · JS  ·  C · C++ · Python · Flask  ·  Cybersec · Godot</text>
+
+  <!-- overall label inside -->
+  <text x="168" y="412" font-size="12" font-family="monospace" fill="#ffffff" fill-opacity="0.5" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">17 skills · avg mastery</text>
+
+  <!-- legend dots -->
+  <circle cx="30" cy="462" r="5" fill="#9945ff" style="fill:rgb(153, 69, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="40" y="466" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">Art</text>
+  <circle cx="75" cy="462" r="5" fill="#bf5fff" style="fill:rgb(191, 95, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="85" y="466" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">Music</text>
+  <circle cx="128" cy="462" r="5" fill="#22c55e" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="138" y="466" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">Web</text>
+  <circle cx="178" cy="462" r="5" fill="#3b82f6" style="fill:rgb(59, 130, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="188" y="466" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">Code</text>
+  <circle cx="232" cy="462" r="5" fill="#f97316" style="fill:rgb(249, 115, 22);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="242" y="466" font-size="10" font-family="monospace" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">Security &amp; GameDev</text>
+</svg>
