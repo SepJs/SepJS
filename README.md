@@ -4,9 +4,9 @@
 
 <br>
 
-[![X Badge](https://img.shields.io/badge/@SepantaJS-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
+[![X](https://img.shields.io/badge/@SepantaJS-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
 &nbsp;
-[![GitHub Badge](https://img.shields.io/badge/SepJs-1a0030?style=flat-square&logo=github&logoColor=white)](https://github.com/SepJs)
+[![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=flat-square&logo=github&logoColor=white)](https://github.com/SepJs)
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=6a0dad&style=flat-square&label=visitors)
 
@@ -56,7 +56,7 @@ I'm a multidisciplinary creator working at the intersection of **code**, **art**
 
 <br>
 
-![SQL](https://img.shields.io/badge/SQL-1a0030?style=flat-square&logoColor=white&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-1a0030?style=flat-square&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-1a0030?style=flat-square&logo=mongodb&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-1a0030?style=flat-square&logo=json&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a0030?style=flat-square&logo=hackthebox&logoColor=white)
@@ -102,14 +102,9 @@ I'm a multidisciplinary creator working at the intersection of **code**, **art**
 
 <br>
 
-| Category | Avg Mastery |
-|:---|:---:|
-| 🎨 Art & Design | `99.75%` |
-| 🎵 Music | `100%` |
-| 🌐 Web & Data | `86%` |
-| 💻 Programming | `37.5%` |
-| 🔐 Security & Game Dev | `47%` |
-| **⚡ Overall** | **`74%`** |
+<div align="center">
+  <img src="skills.svg" width="100%" />
+</div>
 
 ---
 
@@ -130,7 +125,7 @@ A game forged from nothing — built with **Godot**, sculpted in **ZBrush & Blen
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SepJs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&icon_color=bf5fff&text_color=ffffff&ring_color=6a0dad" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SepJs&theme=radical&hide_border=true&background=0d0019&ring=9945ff&fire=bf5fff&currStreakLabel=ffffff&sideLabels=9945ff&dates=888888" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=SepJs&theme=radical&hide_border=true&background=0d0019&ring=9945ff&fire=bf5fff&currStreakLabel=ffffff&sideLabels=9945ff&dates=888888" width="48%" />
 
 <br><br>
 
