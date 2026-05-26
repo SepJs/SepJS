@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-🎮 I'm **Sepanta**, a passionate **game developer**, **programmer**, and **online Harvard student** building things from the ground up.
+🎮 I'm **Sepanta Ziaei**, a passionate **game developer**, **programmer**, and **online Harvard student** building things from the ground up.
 
 🌌 Creator of **INNER VOID** — a project born from vision, built with code and pixels.
 
@@ -104,6 +104,8 @@ Built with **Godot**, sculpted in **ZBrush & Blender**, and brought to life pixe
 ![Profile Views](https://komarev.com/ghpvc/?username=SepJs&color=6a0dad&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![GitHub followers](https://img.shields.io/github/followers/SepJs?style=for-the-badge&color=6a0dad&labelColor=1a0030&logo=github)](https://github.com/SepJs)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1a0030?style=for-the-badge&logo=x&logoColor=9945ff)](https://twitter.com/SepantaJS)
 
 </div>
 
