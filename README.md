@@ -38,13 +38,18 @@
 
 ## About
 
-I'm a multidisciplinary creator working at the intersection of **code**, **art**, and **game design**.
+Execution Over Noise
+"I build interactive systems with structure, intent, and control."
 
-- 🌌 Founder and sole creator of **INNER VOID**
-- 🎨 Full creative stack — from low-level C to 3D sculpting in ZBrush
-- 🎵 Compose original soundtracks in MuseScore
-- 🔐 Strong foundation in cybersecurity
-- 📚 Harvard Online student — certificate incoming
+— Game Development: Architecture and implementation of narrative-driven, atmosphere-focused systems
+— C / C++: Low-level programming for performance-critical and structured systems
+— Unreal Engine: Systems-level development — gameplay architecture, mechanics, and engine integration
+— Visual Pipeline: 3D sculpting, environment construction, and visual direction (ZBrush, Blender)
+— Audio Systems: Composition and integration aligned with gameplay and narrative structure
+— Systems Thinking: Cybersecurity-informed approach to design, reliability, and control
+
+Mindset
+Precision over style. Systems over shortcuts. Depth over surface.
 
 ---
 
