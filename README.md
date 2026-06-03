@@ -141,6 +141,8 @@ A game forged from nothing — built with **Godot**, sculpted in **ZBrush & Blen
 
 ## 🗂️ Projects
 
+### 🌐 Front-End
+
 <div align="center">
 
 <br>
@@ -161,9 +163,109 @@ A game forged from nothing — built with **Godot**, sculpted in **ZBrush & Blen
 
 ![HTML](https://img.shields.io/badge/HTML-1a0030?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS](https://img.shields.io/badge/CSS-1a0030?style=flat-square&logo=css3&logoColor=1572b6)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0030?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Vue.js](https://img.shields.io/badge/Vue.js-1a0030?style=flat-square&logo=vuedotjs&logoColor=42b883)
+![React](https://img.shields.io/badge/React-1a0030?style=flat-square&logo=react&logoColor=61dafb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a0030?style=flat-square&logo=javascript&logoColor=f7df1e)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-1a0030?style=flat-square&logo=figma&logoColor=f24e1e)
-![Responsive](https://img.shields.io/badge/Responsive-1a0030?style=flat-square&logo=google-chrome&logoColor=4285f4)
+
+<br>
+
+</div>
+
+---
+
+### 🛢️ Back-End
+
+<div align="center">
+
+<br>
+
+<sub>✦ BACK-END SHOWCASE ✦</sub>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*Solid back-end foundations — from relational databases to lightweight APIs.*
+*Data that's structured, queries that are clean, and logic that actually holds.*
+**The engine behind the experience.**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-1a0030?style=flat-square&logo=mysql&logoColor=4479a1)
+![SQLite](https://img.shields.io/badge/SQLite-1a0030?style=flat-square&logo=sqlite&logoColor=003b57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0030?style=flat-square&logo=postgresql&logoColor=4169e1)
+![OracleSQL](https://img.shields.io/badge/Oracle%20SQL-1a0030?style=flat-square&logo=oracle&logoColor=f80000)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1a0030?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0030?style=flat-square&logo=mongodb&logoColor=47a248)
+![Flask](https://img.shields.io/badge/Flask-1a0030?style=flat-square&logo=flask&logoColor=ffffff)
+
+<br>
+
+</div>
+
+---
+
+### 🔐 Security
+
+<div align="center">
+
+<br>
+
+<sub>✦ SECURITY SHOWCASE ✦</sub>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*Security isn't an afterthought — it's a mindset.*
+*Low-level code, offensive tooling, and a deep understanding of how systems break.*
+**Built to understand. Hardened to protect.**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+![C](https://img.shields.io/badge/C-1a0030?style=flat-square&logo=c&logoColor=a8b9cc)
+![C++](https://img.shields.io/badge/C++-1a0030?style=flat-square&logo=cplusplus&logoColor=00599c)
+![Linux](https://img.shields.io/badge/Linux-1a0030?style=flat-square&logo=linux&logoColor=fcc624)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1a0030?style=flat-square&logo=linux&logoColor=31c754)
+
+<br>
+
+</div>
+
+---
+
+### 🎮 Game Development
+
+<div align="center">
+
+<br>
+
+<sub>✦ GAME DEV SHOWCASE ✦</sub>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*Games are the intersection of every discipline I know.*
+*Code, art, sound, and design — all converging into a single interactive world.*
+**This is where everything comes together.**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+![Godot](https://img.shields.io/badge/Godot-1a0030?style=flat-square&logo=godotengine&logoColor=478cbf)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-1a0030?style=flat-square&logo=unrealengine&logoColor=ffffff)
+![Blender](https://img.shields.io/badge/Blender-1a0030?style=flat-square&logo=blender&logoColor=f5792a)
+![ZBrush](https://img.shields.io/badge/ZBrush-1a0030?style=flat-square&logoColor=ffffff)
+![Illustrator](https://img.shields.io/badge/Illustrator-1a0030?style=flat-square&logo=adobeillustrator&logoColor=ff9a00)
+![Aseprite](https://img.shields.io/badge/Aseprite-1a0030?style=flat-square&logo=aseprite&logoColor=ffffff)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-1a0030?style=flat-square&logo=fl-studio&logoColor=f3a72a)
 
 <br>
 
