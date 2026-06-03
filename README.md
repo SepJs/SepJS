@@ -1,12 +1,14 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0030,100:6a0dad&height=230&section=header&text=Unknown%20XRG&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%C2%B7%20Programmer%20%C2%B7%20Digital%20Artist%20%C2%B7%20Creator&descAlignY=60&descSize=16&animation=fadeIn)](https://github.com/SepJs)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0020,70:4a0080,100:9945ff&height=320&section=header&text=Unknown%20XRG&fontSize=78&fontColor=ffffff&fontAlignY=45&desc=Game%20Developer%20%C2%B7%20Programmer%20%C2%B7%20Digital%20Artist%20%C2%B7%20Creator&descAlignY=62&descSize=17&animation=fadeIn&stroke=9945ff&strokeWidth=1.5)](https://github.com/SepJs)
 
 <br>
 
 [![X](https://img.shields.io/badge/@SepantaJS-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=flat-square&logo=github&logoColor=white)](https://github.com/SepJs)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=flat-square&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/portfolio)
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=6a0dad&style=flat-square&label=visitors)
 
@@ -38,18 +40,15 @@
 
 ## About
 
-Execution Over Noise
-"I build interactive systems with structure, intent, and control."
+I don't fit into a single category — and that's intentional.
 
-— Game Development: Architecture and implementation of narrative-driven, atmosphere-focused systems
-— C / C++: Low-level programming for performance-critical and structured systems
-— Unreal Engine: Systems-level development — gameplay architecture, mechanics, and engine integration
-— Visual Pipeline: 3D sculpting, environment construction, and visual direction (ZBrush, Blender)
-— Audio Systems: Composition and integration aligned with gameplay and narrative structure
-— Systems Thinking: Cybersecurity-informed approach to design, reliability, and control
+I'm a **game developer**, **programmer**, and **digital artist** who builds across the full creative stack. From writing low-level **C** to sculpting in **ZBrush**, from composing soundtracks in **MuseScore** to architecting gameplay systems in **Godot** — every layer of a project is within reach.
 
-Mindset
-Precision over style. Systems over shortcuts. Depth over surface.
+I founded and continue to develop **INNER VOID** — an indie game built entirely by one person, from code to art to sound. It's not a side project. It's a statement.
+
+Currently expanding my theoretical foundation through **Harvard Online**, with a certificate on the way.
+
+I build things that didn't exist before. That's the only metric that matters.
 
 ---
 
@@ -108,6 +107,21 @@ Precision over style. Systems over shortcuts. Depth over surface.
 <br>
 
 <div align="center">
+
+| Category | Skills | Avg |
+|:---|:---|:---:|
+| 🎨 Art & Design | ZBrush · Aseprite · Pixel Art · Blender | ![99.75](https://img.shields.io/badge/99.75%25-282828?style=flat-square&color=9945ff) |
+| 🎵 Music | MuseScore | ![100](https://img.shields.io/badge/100%25-282828?style=flat-square&color=bf5fff) |
+| 🌐 Web & Data | HTML · CSS · SQL · NoSQL · JSON · JS | ![86](https://img.shields.io/badge/86%25-282828?style=flat-square&color=4ade80) |
+| 💻 Programming | C · C++ · Python · Flask | ![37.5](https://img.shields.io/badge/37.5%25-282828?style=flat-square&color=60a5fa) |
+| 🔐 Security & Game Dev | Cybersecurity · Godot | ![47](https://img.shields.io/badge/47%25-282828?style=flat-square&color=fb923c) |
+| **⚡ Overall** | **17 skills** | ![74](https://img.shields.io/badge/74%25-282828?style=flat-square&color=ffffff) |
+
+</div>
+
+<br>
+
+<div align="center">
   <img src="skills.svg" width="100%" />
 </div>
 
@@ -125,16 +139,45 @@ A game forged from nothing — built with **Godot**, sculpted in **ZBrush & Blen
 
 ---
 
+## 🗂️ Projects
+
+<div align="center">
+
+<br>
+
+<sub>✦ FRONT-END SHOWCASE ✦</sub>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*A curated collection of front-end work — built from scratch, designed with intention.*
+*Clean interfaces, smooth interactions, and code that actually makes sense.*
+**This is where ideas become experiences.**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+![HTML](https://img.shields.io/badge/HTML-1a0030?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/CSS-1a0030?style=flat-square&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0030?style=flat-square&logo=javascript&logoColor=f7df1e)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-1a0030?style=flat-square&logo=figma&logoColor=f24e1e)
+![Responsive](https://img.shields.io/badge/Responsive-1a0030?style=flat-square&logo=google-chrome&logoColor=4285f4)
+
+<br>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SepJs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&icon_color=bf5fff&text_color=ffffff&ring_color=6a0dad" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=SepJs&theme=radical&hide_border=true&background=0d0019&ring=9945ff&fire=bf5fff&currStreakLabel=ffffff&sideLabels=9945ff&dates=888888" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepJs&layout=compact&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&text_color=ffffff" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SepJs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&icon_color=bf5fff&text_color=ffffff&ring_color=6a0dad&include_all_commits=true&count_private=true" width="32%" />
+<img src="https://streak-stats.demolab.com/?user=SepJs&theme=radical&hide_border=true&background=0d0019&ring=9945ff&fire=bf5fff&currStreakLabel=ffffff&sideLabels=9945ff&dates=888888" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepJs&layout=compact&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&text_color=ffffff&langs_count=6" width="32%" />
 
 </div>
 
