@@ -277,9 +277,9 @@ A game forged from nothing — built with **Godot**, sculpted in **ZBrush & Blen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SepJs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&icon_color=bf5fff&text_color=ffffff&ring_color=6a0dad&include_all_commits=true&count_private=true" width="32%" />
-<img src="https://streak-stats.demolab.com/?user=SepJs&theme=radical&hide_border=true&background=0d0019&ring=9945ff&fire=bf5fff&currStreakLabel=ffffff&sideLabels=9945ff&dates=888888" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepJs&layout=compact&theme=radical&hide_border=true&bg_color=0d0019&title_color=9945ff&text_color=ffffff&langs_count=6" width="32%" />
+<a href="https://github.com/SepJs"><img src="https://github-readme-stats-inner-void.vercel.app/api?username=SepJs&show_icons=true&theme=radical&hide_border=false&border_color=9945ff&border_radius=12&bg_color=0d0019&title_color=9945ff&icon_color=bf5fff&text_color=ffffff&ring_color=6a0dad&include_all_commits=true&count_private=true" width="32%" /></a>
+<a href="https://github.com/SepJs"><img src="https://streak-stats.demolab.com/?user=SepJs&theme=radical&hide_border=false&border=9945ff&border_radius=12&background=0d0019&ring=9945ff&fire=bf5fff&currStreakLabel=ffffff&sideLabels=9945ff&dates=888888" width="32%" /></a>
+<a href="https://github.com/SepJs"><img src="https://github-readme-stats-inner-void.vercel.app/api/top-langs/?username=SepJs&layout=compact&theme=radical&hide_border=false&border_color=9945ff&border_radius=12&bg_color=0d0019&title_color=9945ff&text_color=ffffff&langs_count=6" width="32%" /></a>
 
 </div>
 
