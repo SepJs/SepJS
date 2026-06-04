@@ -38,7 +38,8 @@
 
 ---
 
-> [?ABOUT]
+> [!CAUTION]
+> ## About
 
 >I don't fit into a single category — and that's intentional.
 
