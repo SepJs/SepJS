@@ -42,11 +42,11 @@
 
 I don't fit into a single category — and that's intentional.
 
-I'm a **game developer**, **programmer**, and **digital artist** who builds across the full creative stack. From writing low-level **C** to sculpting in **ZBrush**, from composing soundtracks in **MuseScore** to architecting gameplay systems in **Godot** — every layer of a project is within reach.
+I'm a **Game Developer**, **Systems Programmer**, and **Digital Artist** architecting experiences across the full creative stack. From low-level memory management in **C/C++** to digital sculpting in **ZBrush**, from technical logic in **Godot (GDScript)** to crafting modern dynamic UI/UX — I look at products holistically.
 
-I founded and continue to develop **INNER VOID** — an indie game built entirely by one person, from code to art to sound. It's not a side project. It's a statement.
+As the founder of **INNER VOID STUDIO**, I lead the development of immersive, atmospheric experiences, balancing core technical game logic with strict aesthetic direction. 
 
-Currently expanding my theoretical foundation through **Harvard Online**, with a certificate on the way.
+Currently expanding my theoretical foundations in computer science through **Harvard Online**.
 
 I build things that didn't exist before. That's the only metric that matters.
 
@@ -76,32 +76,21 @@ I build things that didn't exist before. That's the only metric that matters.
 ## Skill Mastery
 
 ```
-  Art & Design
-  ZBrush       ████████████████████████████████████  100%
-  Aseprite     ████████████████████████████████████  100%
-  Pixel Art    ████████████████████████████████████  100%
-  Blender      ███████████████████████████████████▌   99%
+  Art & Design ───────────────────────────────────────────
+ZBrush & Sculpting     ████████████████████████████████  Advanced / Production-Ready
+Aseprite & Pixel Art   ████████████████████████████████  Advanced / Production-Ready
+Blender 3D Asset Dev   ██████████████████████████████  Advanced
 
-  Music
-  MuseScore    ████████████████████████████████████  100%
+Architecture & Web ─────────────────────────────────────
+Databases (SQL/NoSQL)  ████████████████████████████████  Advanced
+HTML5 / CSS3 / Tailwind████████████████████████████████  Advanced
+JavaScript / Core DOM  ██████████████                    Intermediate
 
-  Web & Data
-  HTML         ████████████████████████████████████  100%
-  CSS          ████████████████████████████████████  100%
-  SQL          ████████████████████████████████████  100%
-  NoSQL        ████████████████████████████████████  100%
-  JSON         ████████████████████████████████████  100%
-  JavaScript   █████▌                                 16%
-
-  Programming
-  C            ████████████████                       45%
-  Flask        ██████████████▌                        40%
-  C++          █████████████▌                         37%
-  Python       ██████████                             28%
-
-  Security & Game Dev
-  Cybersecurity████████████████████████               64%
-  Godot        ██████████▌                            30%
+Systems & Engines ──────────────────────────────────────
+Cybersecurity Concepts ████████████████████████          Intermediate
+C / C++ Core Logic     ██████████████████████            Intermediate
+Godot Engine & GDScript██████████████████████            Intermediate
+Python & Flask APIs    ████████████████                  Intermediate
 ```
 
 <br>
