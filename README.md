@@ -82,12 +82,12 @@ ZBrush & Sculpting     ███████████████████
 Aseprite & Pixel Art   ████████████████████████████████  Advanced / Production-Ready
 Blender 3D Asset Dev   ██████████████████████████████  Advanced
 
-Architecture & Web ─────────────────────────────────────
+  Architecture & Web ─────────────────────────────────────
 Databases (SQL/NoSQL)  ████████████████████████████████  Advanced
 HTML5 / CSS3 / Tailwind████████████████████████████████  Advanced
 JavaScript / Core DOM  ██████████████                    Intermediate
 
-Systems & Engines ──────────────────────────────────────
+  Systems & Engines ──────────────────────────────────────
 Cybersecurity Concepts ████████████████████████          Intermediate
 C / C++ Core Logic     ██████████████████████            Intermediate
 Godot Engine & GDScript██████████████████████            Intermediate
