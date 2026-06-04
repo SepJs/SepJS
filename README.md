@@ -40,15 +40,15 @@
 
 > [!CAUTION]
 > ## About
-
+>
 >I don't fit into a single category — and that's intentional.
-
-I'm a **Game Developer**, **Systems Programmer**, and **Digital Artist** architecting experiences across the full creative stack. From low-level memory management in **C/C++** to digital sculpting in **ZBrush**, from technical logic in **Godot (GDScript)** to crafting modern dynamic UI/UX — I look at products holistically.
-
-As the founder of **INNER VOID STUDIO**, I lead the development of immersive, atmospheric experiences, balancing core technical game logic with strict aesthetic direction. 
-
-Currently expanding my theoretical foundations in computer science through **Harvard Online**.
-
+>
+>I'm a **Game Developer**, **Systems Programmer**, and **Digital Artist** architecting experiences across the full creative stack. From low-level memory management in **C/C++** to digital sculpting in >**ZBrush**, from technical logic in **Godot (GDScript)** to crafting modern dynamic UI/UX — I look at products holistically.
+>
+>As the founder of **INNER VOID STUDIO**, I lead the development of immersive, atmospheric experiences, balancing core technical game logic with strict aesthetic direction. 
+>
+>Currently expanding my theoretical foundations in computer science through **Harvard Online**.
+>
 >I build things that didn't exist before. That's the only metric that matters.
 
 ---
