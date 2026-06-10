@@ -275,16 +275,6 @@ A game forged from nothing — built with **Godot**, sculpted in **ZBrush & Blen
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SepJs&theme=radical&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 [![followers](https://img.shields.io/github/followers/SepJs?style=flat-square&color=6a0dad&labelColor=1a0030&logo=github&label=followers)](https://github.com/SepJs)
