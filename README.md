@@ -10,7 +10,7 @@
 
 [![X](https://img.shields.io/badge/@SepantaJS-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/sepanta-ziaei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/sepanta-ziaei))
 &nbsp;
 [![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SepJs)
 &nbsp;
