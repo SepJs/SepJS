@@ -1,130 +1,209 @@
 <div align="center">
-
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0020,70:4a0080,100:9945ff&height=320&section=header&text=Unknown%20XRG&fontSize=78&fontColor=ffffff&fontAlignY=45&desc=Game%20Developer%20%C2%B7%20Programmer%20%C2%B7%20Digital%20Artist%20%C2%B7%20Creator&descAlignY=62&descSize=17&animation=fadeIn&stroke=9945ff&strokeWidth=1.5)](https://github.com/SepJs)
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0015,60:3d006b,100:9945ff&height=340&section=header&text=Unknown%20XRG&fontSize=82&fontColor=ffffff&fontAlignY=42&desc=Game%20Developer%20%C2%B7%20Systems%20Programmer%20%C2%B7%20Digital%20Artist&descAlignY=60&descSize=16&animation=fadeIn&stroke=9945ff&strokeWidth=2)](https://github.com/SepJs)
+ 
+</div>
 <br>
-
-[![X](https://img.shields.io/badge/@SepantaJS-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
+<div align="center">
+[![X](https://img.shields.io/badge/@SepantaJS-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=flat-square&logo=github&logoColor=white)](https://github.com/SepJs)
+[![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SepJs)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=flat-square&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=for-the-badge&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/portfolio)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=6a0dad&style=flat-square&label=visitors)
-
+![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
+ 
 </div>
-
 <br>
-
 ---
-
+ 
 <div align="center">
-
 ```
-  ┌─────────────────────────────────────────────────────┐
-  │                                                     │
-  │   Unknown XRG  ·  Sepanta                           │
-  │                                                     │
-  │   Game Developer  ·  Programmer  ·  Digital Artist  │
-  │   Creator of INNER VOID                             │
-  │   Harvard Online Student                            │
-  │                                                     │
-  │   "Turning the void into worlds."                   │
-  │                                                     │
-  └─────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     Unknown XRG  ·  Sepanta                                  ║
+║     ─────────────────────────────────────────────────────    ║
+║     Game Developer  ·  Systems Programmer  ·  Digital Artist ║
+║     Founder of  INNER VOID STUDIO                            ║
+║     Harvard Online · CS Track                                ║
+║                                                              ║
+║     "Turning the void into worlds."                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
+ 
 </div>
-
 ---
-
-> [!CAUTION]
-> ## About
->
->I don't fit into a single category — and that's intentional.
->
->I'm a **Game Developer**, **Systems Programmer**, and **Digital Artist** architecting experiences across the full creative stack. From low-level memory management in **C/C++** to digital sculpting in >**ZBrush**, from technical logic in **Godot (GDScript)** to crafting modern dynamic UI/UX — I look at products holistically.
->
->As the founder of **INNER VOID STUDIO**, I lead the development of immersive, atmospheric experiences, balancing core technical game logic with strict aesthetic direction. 
->
->Currently expanding my theoretical foundations in computer science through **Harvard Online**.
->
->I build things that didn't exist before. That's the only metric that matters.
-
----
-
-## Skills
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,flask,godot,blender&theme=dark&perline=9)](https://skillicons.dev)
-
+ 
 <br>
-
-![SQL](https://img.shields.io/badge/SQL-1a0030?style=flat-square&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-1a0030?style=flat-square&logo=mongodb&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-1a0030?style=flat-square&logo=json&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a0030?style=flat-square&logo=hackthebox&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-1a0030?style=flat-square&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-1a0030?style=flat-square&logo=aseprite&logoColor=white)
-![MuseScore](https://img.shields.io/badge/MuseScore-1a0030?style=flat-square&logo=musescore&logoColor=white)
-![Pixel Art](https://img.shields.io/badge/Pixel%20Art-1a0030?style=flat-square&logo=itch.io&logoColor=white)
-
-</div>
-
----
-
-## Skill Mastery
-
+## `> whoami`
+ 
+<table>
+<tr>
+<td width="60%" valign="top">
+I don't fit into a single category — and that's intentional.
+ 
+I'm a **Game Developer**, **Systems Programmer**, and **Digital Artist** building experiences across the full creative stack. From low-level memory management in **C/C++** and **Rust** to digital sculpting in **ZBrush**, from engine logic in **Godot** to modern UI/UX systems — I approach products holistically.
+ 
+As the founder of **[Inner Void Studio](https://github.com/SepJs)**, I lead development of immersive, atmospheric games that balance technical precision with strict aesthetic direction.
+ 
+Expanding my theoretical foundations through **Harvard Online**.
+ 
+> *I build things that didn't exist before. That's the only metric that matters.*
+ 
+</td>
+<td width="40%" align="center" valign="top">
 ```
-  Art & Design ───────────────────────────────────────────
-ZBrush & Sculpting     ████████████████████████████████  Advanced / Production-Ready
-Aseprite & Pixel Art   ████████████████████████████████  Advanced / Production-Ready
-Blender 3D Asset Dev   ██████████████████████████████  Advanced
-
-  Architecture & Web ─────────────────────────────────────
-Databases (SQL/NoSQL)  ████████████████████████████████  Advanced
-HTML5 / CSS3 / Tailwind████████████████████████████████  Advanced
-JavaScript / Core DOM  ██████████████                    Intermediate
-
-  Systems & Engines ──────────────────────────────────────
-Cybersecurity Concepts ████████████████████████          Intermediate
-C / C++ Core Logic     ██████████████████████            Intermediate
-Godot Engine & GDScript██████████████████████            Intermediate
-Python & Flask APIs    ████████████████                  Intermediate
+  ┌──────────────────────┐
+  │                      │
+  │    [ INNER VOID ]    │
+  │                      │
+  │  Current Project:    │
+  │  Future Timelines    │
+  │  ─ Psych Horror ─    │
+  │  ─ Atmospheric  ─    │
+  │                      │
+  │  Status: ██████░░    │
+  │          Building    │
+  │                      │
+  └──────────────────────┘
 ```
-
+ 
+</td>
+</tr>
+</table>
 <br>
-
-<div align="center">
-
-| Category | Skills | Avg |
-|:---|:---|:---:|
-| 🎨 Art & Design | ZBrush · Aseprite · Pixel Art · Blender | ![99.75](https://img.shields.io/badge/99.75%25-282828?style=flat-square&color=9945ff) |
-| 🎵 Music | MuseScore | ![100](https://img.shields.io/badge/100%25-282828?style=flat-square&color=bf5fff) |
-| 🌐 Web & Data | HTML · CSS · SQL · NoSQL · JSON · JS | ![86](https://img.shields.io/badge/86%25-282828?style=flat-square&color=4ade80) |
-| 💻 Programming | C · C++ · Python · Flask | ![37.5](https://img.shields.io/badge/37.5%25-282828?style=flat-square&color=60a5fa) |
-| 🔐 Security & Game Dev | Cybersecurity · Godot | ![47](https://img.shields.io/badge/47%25-282828?style=flat-square&color=fb923c) |
-| **⚡ Overall** | **17 skills** | ![74](https://img.shields.io/badge/74%25-282828?style=flat-square&color=ffffff) |
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="skills.svg" width="100%" />
-</div>
-
 ---
-
+ 
+## `> tech_stack`
+ 
 <div align="center">
-
-[![followers](https://img.shields.io/github/followers/SepJs?style=flat-square&color=6a0dad&labelColor=1a0030&logo=github&label=followers)](https://github.com/SepJs)
-&nbsp;
-[![twitter](https://img.shields.io/badge/follow%20on%20x-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
-
+### Languages & Systems
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,js,html,css,flask&theme=dark&perline=9)](https://skillicons.dev)
+ 
+### Engines & Tools
+[![Skills](https://skillicons.dev/icons?i=godot,blender,git,linux,sqlite&theme=dark&perline=9)](https://skillicons.dev)
+ 
+<br>
+| Domain | Technologies |
+|:---|:---|
+| 🎮 **Game Dev** | Godot · GDScript · C++ |
+| ⚙️ **Systems** | C · C++ · Rust · Go |
+| 🌐 **Web & APIs** | HTML5 · CSS3 · JavaScript · Python · Flask |
+| 🗄️ **Data** | SQL · NoSQL · JSON |
+| 🎨 **Art & Design** | ZBrush · Blender · Aseprite · Pixel Art |
+| 🎵 **Music** | MuseScore |
+| 🔐 **Security** | Cybersecurity Concepts · Systems Hardening |
+ 
+</div>
+<br>
+---
+ 
+## `> skill_matrix`
+ 
+```
+  ┌────────────────────────────────────────────────────────────────┐
+  │  ART & DESIGN                                                  │
+  │                                                                │
+  │  ZBrush & Sculpting      ████████████████████████████████ 98% │
+  │  Aseprite & Pixel Art    ████████████████████████████████ 97% │
+  │  Blender 3D              ██████████████████████████████░░ 92% │
+  │                                                                │
+  │  WEB & ARCHITECTURE                                            │
+  │                                                                │
+  │  HTML5 / CSS3 / Tailwind ████████████████████████████████ 96% │
+  │  Databases (SQL/NoSQL)   ████████████████████████████████ 94% │
+  │  JavaScript / DOM        ██████████████████████░░░░░░░░░░ 65% │
+  │                                                                │
+  │  SYSTEMS & ENGINES                                             │
+  │                                                                │
+  │  C / C++ Core            ██████████████████████░░░░░░░░░░ 62% │
+  │  Rust                    ████████████████░░░░░░░░░░░░░░░░ 48% │
+  │  Go                      ██████████████░░░░░░░░░░░░░░░░░░ 42% │
+  │  Godot Engine / GDScript ██████████████████████░░░░░░░░░░ 65% │
+  │  Python & Flask          ████████████████░░░░░░░░░░░░░░░░ 50% │
+  │  Cybersecurity           ████████████████████████░░░░░░░░ 72% │
+  └────────────────────────────────────────────────────────────────┘
+```
+ 
+<br>
+---
+ 
+## `> github_stats`
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SepJs&show_icons=true&theme=radical&bg_color=0d0020&border_color=9945ff&icon_color=9945ff&title_color=ffffff&text_color=c084fc&ring_color=9945ff&hide_border=false" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepJs&layout=compact&theme=radical&bg_color=0d0020&border_color=9945ff&title_color=ffffff&text_color=c084fc&hide_border=false" />
 <br><br>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=120&section=footer)](https://github.com/SepJs)
-
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SepJs&theme=radical&background=0d0020&border=9945ff&stroke=9945ff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=9945ff&sideLabels=9945ff&dates=7a7a7a" />
 </div>
+<br>
+---
+ 
+## `> activity`
+ 
+<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SepJs&theme=react-dark&bg_color=0d0020&color=9945ff&line=bf5fff&point=ffffff&area=true&area_color=9945ff&hide_border=false&border_color=9945ff)](https://github.com/SepJs)
+ 
+</div>
+<br>
+---
+ 
+## `> featured_projects`
+ 
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+### 🎮 Future Timelines
+```
+  Psychological Horror · Atmospheric
+  ─────────────────────────────────
+  Engine    → Godot
+  Style     → Fear to Fathom-inspired
+  Studio    → Inner Void Studio
+  Status    → In Development
+```
+[![Repo](https://img.shields.io/badge/View_Project-1a0030?style=for-the-badge&logo=github&logoColor=9945ff)](https://github.com/SepJs)
+ 
+</td>
+<td width="50%" align="center">
+### 🤖 AM Interface
+```
+  AI Chat · Harlan Ellison Tribute
+  ─────────────────────────────────
+  Stack     → HTML · Three.js · JS
+  Feature   → 3D Skull · TTS · APIs
+  Inspired  → I Have No Mouth…
+  Status    → Active
+```
+[![Repo](https://img.shields.io/badge/View_Project-1a0030?style=for-the-badge&logo=github&logoColor=9945ff)](https://github.com/SepJs)
+ 
+</td>
+</tr>
+</table>
+</div>
+<br>
+---
+ 
+<div align="center">
+```
+  ┌──────────────────────────────────────────────────┐
+  │  "I think, therefore I am.                       │
+  │   I create, therefore I persist."                │
+  │                                  — Unknown XRG   │
+  └──────────────────────────────────────────────────┘
+```
+ 
+<br>
+[![followers](https://img.shields.io/github/followers/SepJs?style=for-the-badge&color=9945ff&labelColor=1a0030&logo=github&label=FOLLOWERS)](https://github.com/SepJs)
+&nbsp;
+[![twitter](https://img.shields.io/badge/FOLLOW_ON_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
+ 
+<br><br>
+ 
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9945ff,50:3d006b,100:000000&height=140&section=footer)](https://github.com/SepJs)
+ 
+</div>
+ 
