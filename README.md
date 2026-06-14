@@ -87,7 +87,7 @@ Expanding my theoretical foundations through **Harvard Online**.
 | Domain | Technologies |
 |:---|:---|
 | 🎮 **Game Dev** | Godot · GDScript · C++ |
-| ⚙️ **Systems** | C · C++ · Rust · Go |
+| 🔧 **Systems** | C · C++ · Rust · Go |
 | 🌐 **Web & APIs** | HTML5 · CSS3 · JavaScript · Python · Flask |
 | 🗄️ **Data** | SQL · NoSQL · JSON |
 | 🎨 **Art & Design** | ZBrush · Blender · Aseprite · Pixel Art |
@@ -136,7 +136,7 @@ Expanding my theoretical foundations through **Harvard Online**.
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepJs&layout=compact&theme=radical&bg_color=0d0020&border_color=9945ff&title_color=ffffff&text_color=c084fc&hide_border=false" />
 <br><br>
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SepJs&theme=radical&background=0d0020&border=9945ff&stroke=9945ff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=9945ff&sideLabels=9945ff&dates=7a7a7a" />
+<img src="https://streak-stats.demolab.com/?user=SepJs&theme=radical&background=0d0020&border=9945ff&stroke=9945ff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=9945ff&sideLabels=9945ff&dates=7a7a7a" />
 </div>
 <br>
 ---
