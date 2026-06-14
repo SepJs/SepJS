@@ -44,7 +44,7 @@
 
 <br>
 
-## `> whoami`
+## `> who am I`
 
 I don't fit into a single category — and that's intentional.
 
@@ -60,7 +60,7 @@ Currently deepening my theoretical foundations in computer science through **Har
 
 ---
 
-## `> tech_stack`
+## `> tech stack`
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Currently deepening my theoretical foundations in computer science through **Har
 
 ---
 
-## `> skill_matrix`
+## `> skill matrix`
 
 ```
   ┌────────────────────────────────────────────────────────────────┐
@@ -133,7 +133,7 @@ Currently deepening my theoretical foundations in computer science through **Har
 
 ---
 
-## `> github_stats`
+## `> github stats`
 
 <div align="center">
 
