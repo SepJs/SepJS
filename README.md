@@ -14,7 +14,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SepJs)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=for-the-badge&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=for-the-badge&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/)
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
 
