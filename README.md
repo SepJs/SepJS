@@ -52,7 +52,7 @@ I don't fit into a single category — and that's intentional.
 
 I'm a **Game Developer**, **Cybersecurity Specialist**, and **Software Engineer** operating across the full technical stack. From low-level systems programming in **C/C++**, **Rust**, and **Go** to securing infrastructure and building scalable software architectures — I treat every layer of the stack as a design surface.
 
-As the founder of **[Inner Void Studio](https://github.com/SepJs)**, I lead technical development with an obsessive focus on precision, performance, and aesthetic integrity.
+As the founder of **[Inner Void Studio](https://github.com/Inner-Void-Studio)**, I lead technical development with an obsessive focus on precision, performance, and aesthetic integrity.
 
 Currently deepening my theoretical foundations in computer science through **Harvard Online**.
 
