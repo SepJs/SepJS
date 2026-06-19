@@ -10,11 +10,11 @@
 
 [![X](https://img.shields.io/badge/@SepantaJS-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sepanta-ziaei-71712b412](https://www.linkedin.com/in/sepanta-ziaei-7957a4417/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sepanta-ziaei-71712b412](https://www.linkedin.com/in/sepanta-ziaei-7957a4417/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/SepJs-1a0030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SepJs)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=for-the-badge&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0030?style=for-the-badge&logo=firefox&logoColor=9945ff)](https://sepjs.github.io/portfolio/)
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
 
