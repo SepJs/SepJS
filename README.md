@@ -168,11 +168,11 @@ Currently deepening my theoretical foundations in computer science through **Har
 <div align="center">
 
 ```
-  ┌──────────────────────────────────────────────────┐
-  │  "I think, therefore I am.                       │
-  │   I create, therefore I persist."                │
-  │                                  — Unknown XRG   │
-  └──────────────────────────────────────────────────┘
+  ┌────────────────────────────────────────────────────┐
+  │  "I think, therefore I am.                         │
+  │   I create, therefore I persist."                  │
+  │                                  — VladimirUnknown │
+  └────────────────────────────────────────────────────┘
 ```
 
 <br>
