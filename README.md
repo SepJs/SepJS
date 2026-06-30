@@ -29,7 +29,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║     Unknown XRG  ·  Sepanta                                  ║
+║     Vladimir Unknown  ·  Sepanta                             ║
 ║     ─────────────────────────────────────────────────────    ║
 ║     Game Developer  ·  Cybersecurity  ·  Software Engineer   ║
 ║     Founder of  INNER VOID STUDIO                            ║
